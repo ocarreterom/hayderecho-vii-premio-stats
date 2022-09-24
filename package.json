@@ -1,0 +1,17 @@
+{
+  "name": "hayderecho-vii-premio-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "node-html-parser": "^6.1.1",
+    "table": "^6.8.0"
+  }
+}
