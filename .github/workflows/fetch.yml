@@ -1,8 +1,6 @@
 name: Obtiene el estado de las votaciones
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '*/5 * * * *'
 
 jobs:
   update:
